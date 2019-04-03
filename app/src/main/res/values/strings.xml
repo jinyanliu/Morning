@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Morning</string>
+
+    <string name="type_in_team_members_names">Please type in names of your team members:</string>
+
+    <string name="type_in_name_hint">Jinyan</string>
+</resources>
